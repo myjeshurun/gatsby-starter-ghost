@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://seekinggod.herokuapp.com",
-    "contentApiKey": "b8db60da47f0eadcd130f51ab8"
+    "apiUrl": "https://seekgod.herokuapp.com",
+    "contentApiKey": "2fd002cce28ac4a3333d65543d"
   },
   "production": {
-    "apiUrl": "https://seekinggod.herokuapp.com",
-    "contentApiKey": "b8db60da47f0eadcd130f51ab8"
+    "apiUrl": "https://seekgod.herokuapp.com",
+    "contentApiKey": "2fd002cce28ac4a3333d65543d"
   }
 }
